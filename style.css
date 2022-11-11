@@ -1,0 +1,8 @@
+.card >img {
+    width: auto;
+    height: 250px;
+}
+
+h5,p {
+    text-align: justify;
+    }
